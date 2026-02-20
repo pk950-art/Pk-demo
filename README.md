@@ -1,2 +1,3 @@
-# Pk-demo
-This is my first Git Repository 
+#Pk-demo
+This is my first Git Repository.
+author-pankaj kumar
